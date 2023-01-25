@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lydia</string>
+    <string name="products_top_bar_title">Products</string>
+    <string name="products_top_bar_content_description">Products</string>
+    <string name="product_search_top_bar_title">Product Search</string>
+    <string name="product_search_top_bar_content_description">Product Search</string>
+
+    <string name="product_details_top_bar_title">Product Details</string>
+    <string name="product_details_top_bar_content_description">Product Details</string>
+    <string name="app_not_connected">Not connected</string>
+    <string name="more_icon">More icon</string>
+
+
+    <string name="search_bottom_bar_destination_title">Search</string>
+    <string name="search_bottom_bar_destination_icon">Search</string>
+    <string name="search_products_bottom_bar_destination_title">Search products</string>
+    <string name="search_products_bottom_bar_destination_icon">Search products</string>
+    <string name="search">Search a product</string>
+    <string name="search_content_description">Search a product</string>
+
+
+    <string name="product_detail_brands">Brands</string>
+    <string name="product_detail_allergens">Allergens</string>
+    <string name="product_detail_code">Code</string>
+    <string name="product_detail_productName">Product Name</string>
+    <string name="product_detail_energy">Energy</string>
+    <string name="product_detail_grade">Grade</string>
+
+    <string name="error">Error</string>
+
+</resources>
